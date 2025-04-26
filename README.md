@@ -7,7 +7,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 - **[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🔍 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
