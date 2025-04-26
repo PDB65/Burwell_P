@@ -11,7 +11,8 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-##   NIST Framework
+## 🔑 NIST Framework
+
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
 <hr/>
 
