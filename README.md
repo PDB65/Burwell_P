@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pam Burwell</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pam Burwell</a>'s Cybersecurity Project Portfolio 🔐
 
 
 ---
@@ -17,6 +17,9 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ## 🔑 NIST Framework
 
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
+
+- ## 📄 Common Vulnerabilities and Exposures
+  
 <hr/>
 
 
@@ -25,7 +28,6 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ## 🌐 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pam Burwell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pamdburwell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
