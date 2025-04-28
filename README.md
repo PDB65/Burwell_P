@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pam Burwell</a>'s Cybersecurity Project Portfolio 🔐
+# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pam Burwell </a> - My Cybersecurity Project Portfolio 🔐
 
 
 ---
@@ -17,8 +17,20 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ## 🔑 NIST Framework
 
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
+---
 
 - ## 📄 Common Vulnerabilities and Exposures
+  CVEs (short for Common Vulnerabilities and Exposures) are standardized identifiers for publicly known cybersecurity vulnerabilities.
+  CVEs vary widely and some are critical (like remote code execution), others are low-risk (like a minor information leak).
+  CVE IDs are unique identifiers (like CVE-2013-3900) assigned to specific vulnerabilities.
+  
+  [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
+
+  
+---
+## Splunk
+
+--
   
 <hr/>
 
