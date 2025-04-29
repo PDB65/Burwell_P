@@ -25,7 +25,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   
   CVEs (short for Common Vulnerabilities and Exposures) are standardized identifiers for publicly known cybersecurity vulnerabilities.
   The CVE system is overseen by the organization MITRE Corporation. The system is under the sponsorship of the U.S. government (specifically CISA).
-  CVEs vary widely and some are critical (like remote code execution), others are low-risk (like a minor information leak).
+  CVEs vary widely and some are critical (like remote code execution), others are low-risk.
   
   CVE IDs are unique identifiers (like CVE-2013-3900) assigned to this specific vulnerabilities.
   Attached are the steps worked on to remeiate the vulnerability on the server. 
