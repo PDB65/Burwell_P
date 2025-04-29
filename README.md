@@ -27,12 +27,12 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   Attached are the steps to remeiate the vulnerability. 
   [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
 
-            The CVE system is overseen by the organization MITRE Corporation, under the sponsorship of the U.S. government (specifically CISA).
-            There a is a recommend CVE Severity | Fix Timeline. 
+          The CVE system is overseen by the organization MITRE Corporation, under the sponsorship of the U.S. government (specifically CISA).
+          There a is a recommend CVE Severity | Fix Timeline. 
   
-            Critical + Internet-exposed | Patch immediately (hours to 1–2 days)
-            High but internal | Patch quickly (days)
-            Medium or Low risk | Patch during regular cycles (weeks)
+          Critical + Internet-exposed  |  Patch immediately (hours to 1–2 days)
+          High but internal   |  Patch quickly (days)
+          Medium or Low risk  |  Patch during regular cycles (weeks)
 
 ---
 ## Splunk
