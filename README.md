@@ -19,7 +19,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
 ---
 
-- ## 📄 Common Vulnerabilities and Exposures
+## 📄 Common Vulnerabilities and Exposures
   CVEs (short for Common Vulnerabilities and Exposures) are standardized identifiers for publicly known cybersecurity vulnerabilities.
   CVEs vary widely and some are critical (like remote code execution), others are low-risk (like a minor information leak).
   
