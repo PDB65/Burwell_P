@@ -1,4 +1,4 @@
-# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pam Burwell </a> - My Cybersecurity Project Portfolio 🔐
+# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pamela Burwell </a> - My Cybersecurity Project Portfolio 🔐
 
 
 ---
@@ -22,11 +22,18 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 - ## 📄 Common Vulnerabilities and Exposures
   CVEs (short for Common Vulnerabilities and Exposures) are standardized identifiers for publicly known cybersecurity vulnerabilities.
   CVEs vary widely and some are critical (like remote code execution), others are low-risk (like a minor information leak).
-  CVE IDs are unique identifiers (like CVE-2013-3900) assigned to specific vulnerabilities.
   
+  CVE IDs are unique identifiers (like CVE-2013-3900) assigned to this specific vulnerabilities.
+  Attached are the steps to remeiate the vulnerability. 
   [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
 
+            The CVE system is overseen by the organization MITRE Corporation, under the sponsorship of the U.S. government (specifically CISA).
+            There a is a recommend CVE Severity | Fix Timeline. 
   
+            Critical + Internet-exposed | Patch immediately (hours to 1–2 days)
+            High but internal | Patch quickly (days)
+            Medium or Low risk | Patch during regular cycles (weeks)
+
 ---
 ## Splunk
 
