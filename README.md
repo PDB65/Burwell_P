@@ -1,4 +1,4 @@
-# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pamela Burwell </a> - My Cybersecurity Project Portfolio 🔐
+# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pamela Burwell </a> - My Cybersecurity Project Portfolio
 
 
 ---
