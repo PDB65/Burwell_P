@@ -15,10 +15,10 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ![Know_The_Threats](https://github.com/user-attachments/assets/40804676-273d-42ff-afeb-fd0e9d0fb674)
 
 ---
-## 🔑 NIST Framework and Glossary
+## 🔑 NIST Framework
 
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
-- Glossary: https://csrc.nist.gov/glossary
+
 ---
 
 ## 📄 Common Vulnerabilities and Exposures
