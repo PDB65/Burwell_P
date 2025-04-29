@@ -15,9 +15,10 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ![Know_The_Threats](https://github.com/user-attachments/assets/40804676-273d-42ff-afeb-fd0e9d0fb674)
 
 ---
-## 🔑 NIST Framework
+## 🔑 NIST Framework and Glossary
 
 - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
+- Glossary: https://csrc.nist.gov/glossary
 ---
 
 ## 📄 Common Vulnerabilities and Exposures
@@ -28,12 +29,9 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   Attached are the steps to remeiate the vulnerability. 
   [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
 
-          The CVE system is overseen by the organization MITRE Corporation, under the sponsorship of the U.S. government (specifically CISA).
-          There a is a recommend CVE Severity | Fix Timeline. 
-  
-          Critical + Internet-exposed  |  Patch immediately (hours to 1–2 days)
-          High but internal   |  Patch quickly (days)
-          Medium or Low risk  |  Patch during regular cycles (weeks)
+          The CVE system is overseen by the organization MITRE Corporation. 
+          They are under the sponsorship of the U.S. government (specifically CISA).
+    
 
 ---
 ## Splunk
