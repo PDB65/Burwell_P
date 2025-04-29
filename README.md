@@ -1,4 +1,4 @@
-# 🔐 <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pamela Burwell </a> - My Cybersecurity Project Portfolio
+# •	🛡️ <a href="https://www.linkedin.com/in/pam-b-b8453188/">Pamela Burwell </a> - My Cybersecurity Project Portfolio 	🛡️•
 
 With a strong passion for cybersecurity, I focus on addressing complex security challenges through practical, hands-on projects. My experience spans areas such as vulnerability management and threat detection, allowing me to stay at the forefront of evolving cyber threats. Explore my projects to see how I’ve enhanced security workflows and implemented effective risk mitigation strategies!
 
@@ -28,7 +28,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   CVEs vary widely and some are critical (like remote code execution), others are low-risk.
   
   CVE IDs are unique identifiers (like CVE-2013-3900) assigned to this specific vulnerabilities.
-  Attached are the steps worked on to remeiate the vulnerability on the server. 
+ ## 🚨  Attached are the steps worked on to remeiate the vulnerability on the server. 
   
   [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
 
