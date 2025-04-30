@@ -3,9 +3,18 @@
 With a strong passion for cybersecurity, I focus on addressing complex security challenges through practical, hands-on projects. My experience spans areas such as vulnerability management and threat detection, allowing me to stay at the forefront of evolving cyber threats. Explore my projects to see how I’ve enhanced security workflows and implemented effective risk mitigation strategies!
 
 ---
+## Platforms and Technology Used Within the Projects: 
+  	• Tenable.io
+  	• SIEM (Microsoft Sentinel),
+  	• EDR (Defender for Endpoint)
+  	• Azure VMs
+    • KQL (Kusto Query Language)
+    
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
+
+
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 ---
 ## 🔍 Threat Hunting and Security Operations
