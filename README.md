@@ -58,14 +58,10 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 ## 🌐 Connect With Me
 [<img align="left" alt="Pam Burwell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pamdburwell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 [![YouTube](https://img.shields.io/badge/YouTube-Visit-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@pamela4585)
 
 
 [linkedin]: https://linkedin.com/in/pam-b-b8453188
-[instagram]: https://www.instagram.com/pamdburwell
 [youtube]: https://www.youtube.com/c/pamela4585
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
