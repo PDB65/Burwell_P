@@ -44,13 +44,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   The CVE system is overseen by the organization MITRE Corporation. The system is under the sponsorship of the U.S. government (specifically CISA).
   CVEs vary widely and some are critical (like remote code execution), others are low-risk.
   CVE IDs are unique identifiers assigned to specific vulnerabilities.
-  
- ## 📄 Attached are the steps to remeiate the (CVE-2013-3900) vulnerability. 
-  
-
-
-          
-    
+      
 ---
 ## 🔧 SIEM
 
