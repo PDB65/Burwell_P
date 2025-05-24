@@ -47,7 +47,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   
  ## 📄 Attached are the steps to remeiate the (CVE-2013-3900) vulnerability. 
   
-  [CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx](https://github.com/user-attachments/files/19950351/CVE-2013-3900_WinVerifyTrust_Vulnerability_Remediation.docx)
+
 
           
     
