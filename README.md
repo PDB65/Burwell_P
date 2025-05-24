@@ -22,6 +22,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ## 🔍 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PDB65/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Wireshark Usage)](https://github.com/PDB65/threat-hunting)**
   
 ![Know_The_Threats](https://github.com/user-attachments/assets/40804676-273d-42ff-afeb-fd0e9d0fb674)
 
