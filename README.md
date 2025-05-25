@@ -20,7 +20,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 ---
  **[DISA STIG Implementations (PowerShell)](https://github.com/PDB65/Remediation)**
  
- - Enhance your organization security posture on your Windows 10 systems. 
+ - Enhance your organization security posture for Windows 10 systems. 
 ---
 ## 🔍 Threat Hunting and Security Operations
 
