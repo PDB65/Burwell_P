@@ -31,10 +31,9 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 ---
 ## 🔑 NIST Framework
-    The NIST Cybersecurity Framework (CSF) is a set of voluntary guidelines developed by the National Institute of Standards and Technology (NIST).
-    NIST helps organizations manage and reduce cybersecurity risks! 
-    
-  Click the link below to view NIST-800-53 Publications and others publications! 
+- The NIST Cybersecurity Framework (CSF) is a set of voluntary guidelines developed by the (NIST) National Institute of Standards and Technology.
+- The NIST helps organizations manage and reduce cybersecurity risks!
+- Click the link below to view NIST-800-53 Publications and others Publications! 
  - **[NIST 800-53](https://github.com/PDB65/NIST-800-53)**
 
 ---
