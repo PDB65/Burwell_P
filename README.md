@@ -49,7 +49,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
   CVE IDs are unique identifiers assigned to specific vulnerabilities.
       
 ---
-## 🔧 SIEM
+## 🔧 SIEM (Security Information Event Management)
 
 --
   
