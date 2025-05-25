@@ -17,9 +17,8 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 - **[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
 
 
-
-- **[Remediations (PowerShell)]()**
-- https://github.com/PDB65/Remediation
+- **[Remediating Vulnerabilities Using (PowerShell)](https://github.com/PDB65/Remediation)**
+  
 ---
 ## 🔍 Threat Hunting and Security Operations
 
