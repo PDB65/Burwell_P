@@ -1,0 +1,18 @@
+Subject: Testing & Deployment of Vulnerability Remediation Scripts
+Hi Team,
+Following our initial vulnerability scan and assessment, we've developed a set of remediation scripts to address key vulnerabilities. These scripts are designed for seamless integration into your deployment platform (e.g., SCCM) and should assist in the first phase of remediation efforts.
+Please ensure thorough testing before deploying them to production to validate functionality and effectiveness. 
+
+Vulnerabilities and Remediations:
+1.	Third-Party Software Removal (Wireshark)
+2.	Windows OS Secure Configuration (Insecure Protocols)
+3.	Windows OS Secure Configuration (Insecure Ciphersuites)
+4.	Windows OS Secure Configuration (Guest Account Group Membership)
+
+Let me know if you encounter any issues, require modifications, or have any questions or need any adjustments!
+
+Best regards,
+
+Pamela Burwell 
+Security Analyst
+Governance, Risk, and Compliance
