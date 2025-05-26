@@ -53,7 +53,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 
 ---
-## Discussing Cybersecurity
+## 🗣️ Discussing Cybersecurity
 [Discussions](https://github.com/PDB65/Cybersecurity-Discussions)
 
   
