@@ -14,15 +14,21 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
     
 ## ⚠️ Vulnerability Management Projects
 
-**[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
+**Vulnerabilities and Patching:** Internal scans and external scans can be conducted to fine the vulnerabilities that need patching.
+
+- **[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
  
- - **Vulnerabilities and Patching:** Internal scans and external scans can be conducted to fine the vulnerabilities that need patching.
+
 ---
- **[DISA STIG Implementations (PowerShell)](https://github.com/PDB65/Remediation)**
+**Enhance your organization's security posture for Windows 10 systems.**
+   
+ - **[DISA STIG Implementations (PowerShell)](https://github.com/PDB65/Remediation)**
  
- - Enhance your organization's security posture for Windows 10 systems. 
+
 ---
 ## 🔍 Threat Hunting and Security Operations
+
+**Proactive Cybersecurity Defense**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PDB65/threat-hunting-scenario-tor)**
   
@@ -57,7 +63,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 Two security experts sit down for a chat and leave you with a better understanding of cybersecurity!"
 
-[Cybersecurity Discussions](https://github.com/PDB65/Cybersecurity-Discussions)
+- [Cybersecurity Discussions](https://github.com/PDB65/Cybersecurity-Discussions)
 
   
 <hr/>
