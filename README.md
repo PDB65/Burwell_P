@@ -4,12 +4,12 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 ---
 ## Platforms and Technology Used Within the Projects: 
-  	• Tenable.io
-  	• SIEM (Microsoft Sentinel),
-  	• EDR (MS Defender for Endpoint)
-  	• Azure VMs
-    • KQL (Kusto Query Language)
-    • PowerShell
+- Tenable.io
+- SIEM (Microsoft Sentinel),
+- EDR (MS Defender for Endpoint)
+- Azure VMs
+- KQL (Kusto Query Language)
+- PowerShell
     
     
 ## ⚠️ Vulnerability Management Projects
