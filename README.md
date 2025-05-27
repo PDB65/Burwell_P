@@ -16,7 +16,7 @@ With a strong passion for cybersecurity, I focus on addressing complex security 
 
 **[Vulnerability Management Program Implementation](https://github.com/PDB65/Vulnerability-Management-Program)**
  
- - Vulnerabilities and Patching: Internal scans and external scans can be conducted to fine the vulnerabilities that need patching.
+ - **Vulnerabilities and Patching:** Internal scans and external scans can be conducted to fine the vulnerabilities that need patching.
 ---
  **[DISA STIG Implementations (PowerShell)](https://github.com/PDB65/Remediation)**
  
